@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA62CE982386E6B900558912 /* cebu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA62CE972386E6B900558912 /* cebu.jpg */; };
 		CA7A26E92372EC99006CA4FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7A26E82372EC99006CA4FE /* AppDelegate.swift */; };
 		CA7A26EB2372EC99006CA4FE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7A26EA2372EC99006CA4FE /* SceneDelegate.swift */; };
 		CA7A26ED2372EC99006CA4FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7A26EC2372EC99006CA4FE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA62CE972386E6B900558912 /* cebu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cebu.jpg; sourceTree = "<group>"; };
 		CA7A26E52372EC99006CA4FE /* CountDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CountDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA7A26E82372EC99006CA4FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA7A26EA2372EC99006CA4FE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				CA7A26EA2372EC99006CA4FE /* SceneDelegate.swift */,
 				CA7A26EC2372EC99006CA4FE /* ViewController.swift */,
 				CA7A26EE2372EC99006CA4FE /* Main.storyboard */,
+				CA62CE972386E6B900558912 /* cebu.jpg */,
 				CA7A26F12372EC9B006CA4FE /* Assets.xcassets */,
 				CA7A26F32372EC9B006CA4FE /* LaunchScreen.storyboard */,
 				CA7A26F62372EC9B006CA4FE /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA62CE982386E6B900558912 /* cebu.jpg in Resources */,
 				CA7A26F52372EC9B006CA4FE /* LaunchScreen.storyboard in Resources */,
 				CA7A26F22372EC9B006CA4FE /* Assets.xcassets in Resources */,
 				CA7A26F02372EC99006CA4FE /* Main.storyboard in Resources */,
